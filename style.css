@@ -1,0 +1,28 @@
+.bodybgnd{
+    background-color: grey;
+}
+
+
+h1{
+    color: aquamarine;
+    border-bottom: 1px solid grey;
+}
+
+
+.card1{
+    background-color: white;
+}
+
+img{
+    height: 100px;
+    padding: 0px 20px;
+}
+
+
+.lineheight{
+    line-height: 2.0;
+}
+
+.navline{
+    border-top: 5px solid green;
+}

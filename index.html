@@ -3,75 +3,90 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
     <title>Document</title>
 </head>
 
-<style>
-body{
-    background-image: url("Assets/images/bkgrdwtmrk.jpg");
-}
-
-.manualcard{
-    background-color: white;
-}
-
-
-img{
-    height: 200px;
-}
-
-
-</style>
 
 
 
 
-<body>
+<body class="bodybgnd">
 
     <!--Navbar-->
-    <div class="collapse position-relative" id="navbarToggleExternalContent">
-        <div class="bg-dark p-4">
-          <h5 class="text-white h4">Collapsed content</h5>
-          <span class="text-muted">Toggleable via the navbar brand.</span>
-        </div>
-      </div>
-      <nav class="navbar navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-          <button class="navbar-toggler position-absolute top-0 end-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+            <a class="navbar-brand" href="index.html">Bill Hronis</a>
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="contact.html">Contact</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="portfolio.html">Portfolio</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="index.html" tabindex="-1" aria-disabled="true">About</a>
+              </li>
+            </ul>
+
+          </div>
         </div>
-        <h1>Bill Hronis</h1>
       </nav>
-      <br>
-    </div>
+
 
 
     
     <!--Main Page Container-->
 
 
-    <div class="container-xxl">
-        <div class="container manualcard">
-            <h1>About Me</h1>
-            <br>
-                         
+        <div class="container-fluid">
+            <div class="row container-fluid pt-5">
+
+                <div class="col-8">
+                    <div class="card1 container">
+                        <h1 class="lineheight">About Me</h1>
+                        <br>
+                                                
+                        <img  class="float-start" src="./Assets/images/blu054c-d.jpg"  alt="...">
+                                        
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam dolores inventore et! Possimus blanditiis laudantium minima veniam natus eos, beatae nihil perferendis facere expedita dignissimos dolorem, magni nostrum at? Perspiciatis.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet corporis eligendi id ad, tempore vitae at officiis suscipit, labore harum, vel totam fugiat asperiores ipsam aliquam architecto veniam magnam libero? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas omnis eius impedit. Nulla dolore minima quo ab! Impedit numquam, accusamus cum autem deserunt dignissimos minima, soluta blanditiis a dolorem optio. </p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit delectus porro repellendus quos voluptatum debitis quidem ut magni nam veniam dolores sint quam, architecto aliquam est illo perferendis minus quisquam?</p>
             
-            <img  class="float-start" src="./Assets/images/blu054c-d.jpg"  alt="...">
-                            
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam dolores inventore et! Possimus blanditiis laudantium minima veniam natus eos, beatae nihil perferendis facere expedita dignissimos dolorem, magni nostrum at? Perspiciatis.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet corporis eligendi id ad, tempore vitae at officiis suscipit, labore harum, vel totam fugiat asperiores ipsam aliquam architecto veniam magnam libero? </p>
-
-        </div>
-    </div>
-
-    <br class="clear-both">
+                    </div>
+                </div>
+                    
+                <div class="col-4"></div>
+                
+            </div>
 
 
 
-    <nav class="navbar navbar-light bg-light position-relative">
+
+
+
+
+
+
+      </div>
+    
+    
+    
+    
+    
+
+
+
+
+
+
+    <nav class=" navline navbar fixed-bottom navbar-light bg-light">
         <div class="container-fluid">
             <span class="navbar-brand mb-0 h1">Navbar</span>
         </div>
