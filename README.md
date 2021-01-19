@@ -4,47 +4,28 @@ This is a responsive portfolio that has been designed so that all images and tex
 
 We used bootsrap 5.0 to develop the responsive deisgn with minimal manual custom css used.
 
+## __A link to the git repo hosuing this site can be found here:__  https://daze77.github.io/responsiveDesign/
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-## A link to the git repo hosuing this site can be found here:  https://daze77.github.io/responsiveDesign/
-
-
-
-
-
-
-## Following are some imgaes of the responsive design as a reference:
+## __Following are some imgaes of the responsive design as a reference:__
 
 ### About Page:
-    ![About Page Large] (./Assets/images/abtlg.png)
-    ![About Page Medium] (./Assets/images/abtmd.png)
-    ![About Page Small] (./Assets/images/abtsm.png)
+    ![About Page Large](./Assets/images/abtlg.png)
+    ![About Page Medium](./Assets/images/abtmd.png)
+    ![About Page Small](./Assets/images/abtsm.png)
 
 ### Contact Page:
-    ![Contact Page Large] (./Assets/images/cntcsm.png)
-    ![Contact Page Medium] (./Assets/images/cntcmd.png)
-    ![Contact Page Small] (./Assets/images/cntcsm.png)
+    ![Contact Page Large](./Assets/images/cntcsm.png)
+    ![Contact Page Medium](./Assets/images/cntcmd.png)
+    ![Contact Page Small](./Assets/images/cntcsm.png)
 
 
 ### Portfolio Page:
-    ![Portfolio Page Large] (./Assets/images/prtflg.png)
-    ![Portfolio Page Medium] (./Assets/images/prtfmd.png)
-    ![Portfolio Page Small] (./Assets/images/prtfsm.png)
-
-
+    ![Portfolio Page Large](./Assets/images/prtflg.png)
+    ![Portfolio Page Medium](./Assets/images/prtfmd.png)
+    ![Portfolio Page Small](./Assets/images/prtfsm.png)
 
