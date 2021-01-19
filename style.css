@@ -20,24 +20,11 @@ h1{
 }
 
 
-.smallimg{
-    height: 200px;
-    padding: 0px 20px 10px;
-}
+
 
 .gridimgpad{
     padding: 10px 5px;
 }
 
 
-.smallimg{
-    width: 125px;
- 
-}
 
-
-.imgcontainer{
-    display: flexbox;
-    height: 200px;
-    width: auto;
-}
