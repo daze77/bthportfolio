@@ -10,13 +10,10 @@ h1{
 
 
 .card1{
+    height:max-content;
     background-color: white;
 }
 
-
-.lineheight{
-    line-height: 2.0;
-}
 
 .footerline{
     border-top: 5px solid #88B0B7;
@@ -24,8 +21,8 @@ h1{
 
 
 .smallimg{
-    height: 100px;
-    padding: 0px 20px;
+    height: 150px;
+    padding: 0px 20px 10px;
 }
 
 .gridimgpad{
