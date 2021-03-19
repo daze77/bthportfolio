@@ -3,15 +3,16 @@
 }
 
 
-h1{
+h1, h5{
     color: #88B0B7;
     border-bottom: 1px solid #88b0b7;
 }
 
 
 .card1{
-    height:max-content;
+    height:min-content;
     background-color: white;
+    min-height: 550px;
 }
 
 
