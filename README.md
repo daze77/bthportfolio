@@ -14,18 +14,18 @@ We used bootsrap 5.0 to develop the responsive deisgn with minimal manual custom
 ## __Following are some imgaes of the responsive design as a reference:__
 
 ### About Page:
-    ![About Page Large](./Assets/images/abtlg.png)
-    ![About Page Medium](./Assets/images/abtmd.png)
-    ![About Page Small](./Assets/images/abtsm.png)
+![About Page Large](./Assets/images/abt.lg.png)
+![About Page Medium](./Assets/images/abt.md.png)
+![About Page Small](./Assets/images/abt.sm.png)
 
 ### Contact Page:
-    ![Contact Page Large](./Assets/images/cntcsm.png)
-    ![Contact Page Medium](./Assets/images/cntcmd.png)
-    ![Contact Page Small](./Assets/images/cntcsm.png)
+![Contact Page Large](./Assets/images/ctct.lg.png)
+![Contact Page Medium](./Assets/images/cntc.md.png)
+![Contact Page Small](./Assets/images/cntc.sm.png)
 
 
 ### Portfolio Page:
-    ![Portfolio Page Large](./Assets/images/prtflg.png)
-    ![Portfolio Page Medium](./Assets/images/prtfmd.png)
-    ![Portfolio Page Small](./Assets/images/prtfsm.png)
+![Portfolio Page Large](./Assets/images/prtlg.png)
+![Portfolio Page Medium](./Assets/images/prtfmd.png)
+![Portfolio Page Small](./Assets/images/prtfsm.png)
 
